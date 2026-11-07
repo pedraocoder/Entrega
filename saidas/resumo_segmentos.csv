@@ -1,0 +1,4 @@
+segmento,inicio_no_clipe_s,duracao_s,bola_yolo_pct,bola_kalman_pct,jogadores_no_campo_pct,bola_no_campo_pct,calib_erro_max_marcos_m,calib_erro_medio_arco_m,posse_nautico_pct,posse_sport_pct,quadros_com_bola,passes_detectados,passes_anotados,passes_casados
+seg1,0.0,62.0,42.0,47.7,98.0,95.7,0.58,0.07,43.1,56.9,1595,3,16,2
+seg2,68.9,40.1,37.7,50.4,87.6,86.7,0.96,0.16,46.7,53.3,918,6,1,1
+seg4,186.2,21.8,56.3,38.5,83.0,76.9,1.12,0.27,84.3,15.7,477,7,5,2

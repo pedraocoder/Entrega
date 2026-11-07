@@ -1,0 +1,3 @@
+config,imgsz,fps_proc,jogadores/quadro,% quadros c/ bola,quadros,% bola conf>=0.3,% quadros >1 candidata,conf mediana bola
+yolov8n.pt,1280,19.4,10.7,70.5,1799,39.5,10.1,0.29
+yolov8m.pt,1280,6.2,11.1,75.2,1799,50.8,20.9,0.33

@@ -1,0 +1,19 @@
+{
+  "regra": {
+    "fluor": 0.15,
+    "preto_outros": 0.2,
+    "branco_nautico": 0.15
+  },
+  "limiares_pixels": {
+    "branco_V": 150,
+    "branco_S": 70,
+    "preto_V": 60,
+    "arbitro_fluor": 0.15
+  },
+  "convencao": {
+    "0": "Nautico",
+    "1": "Sport",
+    "-2": "arbitro/outros",
+    "-1": "sem dados"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "video": "/content/jogo_clip.mp4",
+  "modelo": "yolov8m.pt",
+  "device": "cuda",
+  "fps": 59.94005994005994,
+  "largura": 1280,
+  "altura": 720,
+  "n_frames": 1799,
+  "inicio_s": 0.0,
+  "imgsz": 1280,
+  "conf": 0.3,
+  "conf_bola": 0.05,
+  "fps_processamento": 6.486825444155277,
+  "times_bgr": {
+    "0": [
+      72,
+      109,
+      120
+    ],
+    "1": [
+      79,
+      82,
+      127
+    ]
+  }
+}

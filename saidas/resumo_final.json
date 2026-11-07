@@ -1,0 +1,11 @@
+{
+  "duracao_total_s": 123.89999999999999,
+  "raio_posse_m": 2.0,
+  "posse_nautico_ponderada_pct": 50.8,
+  "passes_detectados": 16,
+  "passes_anotados": 22,
+  "precisao": 0.31,
+  "revocacao": 0.23,
+  "F1": 0.26,
+  "segmento_descartado": "seg3 (152-182.5 s): plano rasante na área, calibração inviável"
+}
