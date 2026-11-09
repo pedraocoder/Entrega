@@ -12,7 +12,7 @@ Pipeline que parte de um vídeo de transmissão do YouTube e chega a métricas d
 ## Vídeo
 
 - **Jogo:** Náutico 0 × 3 Sport, final do Campeonato Pernambucano 2026, 2º jogo (transmissão Globo, 1º tempo)
-- **URL:** https://www.youtube.com/live/5N_dyoMaG6Y?si=hDc3cZMTcYgpiwsB
+- **URL:** https://youtu.be/4VxGFG5DHe4?si=o4i8f21DtmhR6cpA
 - **Intervalo baixado:** `1:00:30 – 1:04:30` (4 min), com `python baixar_video.py "URL" --inicio 60.5 --fim 64.5`
 - **Vídeos no Google Drive** (não versionados): clipe original `jogo_clip.mp4` [link] · vídeo de apresentação com as anotações: https://drive.google.com/file/d/1mk94Coqnco0mAj-v4rFhhJgXjWo7FL1O/view
 - **Formato original:** 1280×720 a 59,94 fps, 14.386 quadros (4,00 min). Convertido para **29,97 fps** (`ffmpeg -r 30000/1001`).
